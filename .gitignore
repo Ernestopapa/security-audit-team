@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+build/
+dist/
+*.zip
+deployment*.json
+test-wallets*.json
+.venv/
+__pycache__/
